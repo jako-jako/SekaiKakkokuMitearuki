@@ -31,8 +31,6 @@ github_username:  jekyll
 
 # Build settings
 theme: minima
-sass:
-  quiet_deps: true
 plugins:
   - jekyll-feed
 
